@@ -7,9 +7,9 @@ pour lancer
 aller sur la console kibana : 
 ```http://172.28.128.20:5601```
 
-Login : Elastic
+Login : elastic
 
-Password : ProjetSoc2600
+Password : Password1
 
 Shutdown les vms 
 
