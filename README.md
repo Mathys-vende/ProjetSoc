@@ -5,7 +5,7 @@ pour lancer
 ```Vagrant up```
 
 aller sur la console kibana : 
-```http://172.28.128.20:5601```
+```https://172.26.20.10:5601```
 
 Login : elastic
 
