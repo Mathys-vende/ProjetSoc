@@ -1,0 +1,5 @@
+.DS_Store
+siem/resources/*
+siem/certs/*
+siem/conf/siem/config.ps1
+ubuntu-xenial-16.04-cloudimg-console.log
